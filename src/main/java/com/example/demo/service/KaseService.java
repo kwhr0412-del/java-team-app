@@ -4,6 +4,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class KaseService {
     public String getProfile() {
-        return "メンバー加瀬です！趣味は趣味はドライブです。";
+        return "メンバー加瀬です趣味は趣味はドライブです。";
     }
 }
